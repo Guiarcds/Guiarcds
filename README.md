@@ -4,7 +4,6 @@ Minha principal Git Platform não é o Github!
 
 - 🌱 Estudando Flutter
 - 📫 Contate-me no email: guilherme.cavalcante78@gmail.com
-- 😄 Pronouns: ele/dele
 
 
 <div align="center">
