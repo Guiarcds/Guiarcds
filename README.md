@@ -3,7 +3,7 @@
 Minha principal Git Platform não é o Github!
 
 - 🌱 Estudando Flutter
-- 📫 Contate-me no email: guilherme.cavalcante78@gmail.com
+- 📫 Contate-me no email: nuvemverdecontato@gmail.com
 
 
 <div align="center">
